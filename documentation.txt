@@ -1,0 +1,13 @@
+                Principais Comandos Git:
+
+. git clone caminho_repositorio
+. git branch // para saber em qual branch está
+. git branch nome_nova_branch
+. git checkout nome_branch_q_quer_selecionar
+. git add nome_do_arquivo ou git add . (para adicionar todos arquivos alterados)
+. git commit -m "mensagem referente à o que foi alterado" -- referente ao "add"
+. git pull
+. git push
+. git status
+. git merge nome_branch
+. git push origin -- delete my_branch
